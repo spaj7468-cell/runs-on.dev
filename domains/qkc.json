@@ -20,7 +20,7 @@
   },
   "profile": {
     "name": "OuRi Corp — QKC",
-    "bio": "QKC family by OuRi Corp, built with plain JavaScript: QKC (offline math trainer, 42 823 questions), QKC Engine (dependency-free quiz engine), and QKCcode (offline coding school: HTML/CSS, JavaScript, Python, Lua/Roblox, GDScript/Godot, C#/Unity).",
+    "bio": "QKC family by OuRi Corp, in plain JavaScript: QKC (offline math trainer), QKC Engine (dependency-free quiz engine), QKCcode (offline coding school: HTML, JS, Python, Lua, GDScript, C#).",
     "links": [
       {
         "label": "QKC trainer",
